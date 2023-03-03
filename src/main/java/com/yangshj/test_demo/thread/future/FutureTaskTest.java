@@ -1,4 +1,4 @@
-package com.yangshj.test_demo.thread;
+package com.yangshj.test_demo.thread.future;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
